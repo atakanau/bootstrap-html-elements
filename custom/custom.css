@@ -1,0 +1,77 @@
+/* Temporary preview fix */
+.category.header {
+	background: black;
+	color: white;
+	font-size: 1em;
+	text-align: center;
+	border: 0.1em dashed;
+	border-bottom: none;
+}
+.bd-example{
+	padding: 7px;
+}
+.category.components-button-group .bd-example
+,.category.components-forms .bd-example
+,.category.components-input-group .bd-example
+,.category.content-tables .bd-example
+{
+	padding: 0.3em;
+}
+.bd-example.bd-example-popover-static{
+	display: none;
+}
+.bd-example button[data-toggle="popover"]{
+	margin: 5em;
+	margin-right: 10em;
+}
+.bd-example.popover-demo button[data-container]{
+	margin: inherit;
+}
+.category.components-navbar .bd-example{
+	position: relative;
+	background-color: #888;
+	color: #232323;
+	margin: 10px 0;
+	border-radius: 2em;
+	min-height: 8em;
+	width: 100%;
+}
+.category.components-navbar .fixed-bottom, .category.components-navbar .fixed-top{
+	position: absolute;
+}
+.category.components-progress .progress{
+	margin: 1em 0;
+}
+.category.components-modal .bd-example {
+	background-color: #888;
+	padding: 0.3em;
+}
+.category.components-modal .modal{
+	display: initial;
+	position: initial;
+	z-index: initial;
+	padding: 1em;
+}
+.category.utilities-borders span {
+	display: inline-block;
+	width: 1em;
+	height: 1em;
+	padding: 1em;
+	margin: .5em;
+	border-style: solid;
+}
+.category.utilities-borders img {
+	margin: .2em;
+}
+
+.atakanau h1 {
+	color: black;
+	font-size: 1.5em !important;
+	text-align: center;
+}
+
+.atakanau h3 {
+	font-size: 1em !important;
+}
+
+
